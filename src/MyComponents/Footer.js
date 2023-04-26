@@ -9,7 +9,7 @@ export const Footer = () => {
   return (
     <div>
       <footer className='bg-dark text-light py-1' style={footerstyle}>
-        <p className='text-center'>copyrights&copy; ChiragJoshi</p>
+        <p className='text-center'>copyrights&copy; Kaushik</p>
       </footer>
     </div>
   )
